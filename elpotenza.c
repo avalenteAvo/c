@@ -23,3 +23,4 @@ printf("Il valore della potenza B^E e' pari a: %.2f\n", a);
 puts("* * * - FINE - ESERCIZIO - * * *");
 return 0;
 }
+
